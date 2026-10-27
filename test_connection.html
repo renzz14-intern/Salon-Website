@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Connection Test</title>
+</head>
+<body>
+    <h1>Test JavaScript to PHP Connection</h1>
+    <button onclick="testConnection()">Test Connection</button>
+    <div id="result"></div>
+
+    <script>
+        async function testConnection() {
+            const testData = {
+                fullName: "Test User",
+                email: "test@example.com",
+                phone: "1234567890",
+                serviceType: "massage",
+                serviceName: "Test Massage",
+                servicePrice: 100,
+                serviceDuration: 60,
+                bookingDate: "2024-12-25",
+                bookingTime: "2:00 PM",
+                specialRequests: "Test request"
+            };
+
+            console.log('Sending test data:', testData);
+
+            try {
+                const response = await fetch('process_booking.php', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(testData)
+                });
+
+                console.log('Response status:', response.status);
+                console.log('Response headers:', response.headers);
+
+                const result = await response.json();
+                console.log('Response data:', result);
+
+                document.getElementById('result').innerHTML = 
+                    '<h3>Result:</h3><pre>' + JSON.stringify(result, null, 2) + '</pre>';
+
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('result').innerHTML = 
+                    '<h3>Error:</h3><p style="color: red;">' + error.message + '</p>';
+            }
+        }
+    </script>
+</body>
+</html>

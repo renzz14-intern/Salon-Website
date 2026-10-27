@@ -1,0 +1,2388 @@
+2025-09-06 19:14:37 - Request received
+POST data: Array
+(
+)
+
+Raw input: 
+2025-09-06 19:44:30 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Booking saved successfully with ID: 1
+2025-09-06 19:46:11 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Booking saved successfully with ID: 2
+2025-09-06 19:46:19 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Error: This time slot is already booked. Please choose another time.
+2025-09-06 19:46:26 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Error: This time slot is already booked. Please choose another time.
+2025-09-06 19:46:26 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Error: This time slot is already booked. Please choose another time.
+2025-09-06 19:46:26 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Error: This time slot is already booked. Please choose another time.
+2025-09-06 19:46:27 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Error: This time slot is already booked. Please choose another time.
+2025-09-06 19:46:27 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Error: This time slot is already booked. Please choose another time.
+2025-09-06 19:46:28 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Error: This time slot is already booked. Please choose another time.
+2025-09-06 19:47:40 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Error: This time slot is already booked. Please choose another time.
+2025-09-06 19:47:42 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Error: This time slot is already booked. Please choose another time.
+2025-09-06 19:47:48 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Booking saved successfully with ID: 3
+2025-09-06 20:01:36 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Booking saved successfully with ID: 4
+2025-09-06 20:01:36 - Request received
+POST data: Array
+(
+)
+
+Raw input: {"fullName":"Test User","email":"test@example.com","phone":"1234567890","serviceType":"massage","serviceName":"Test Massage","servicePrice":100,"serviceDuration":60,"bookingDate":"2024-12-25","bookingTime":"2:00 PM","specialRequests":"Test request"}
+Decoded JSON: Array
+(
+    [fullName] => Test User
+    [email] => test@example.com
+    [phone] => 1234567890
+    [serviceType] => massage
+    [serviceName] => Test Massage
+    [servicePrice] => 100
+    [serviceDuration] => 60
+    [bookingDate] => 2024-12-25
+    [bookingTime] => 2:00 PM
+    [specialRequests] => Test request
+)
+
+Time converted: 2:00 PM -> 14:00:00
+Error: This time slot is already booked. Please choose another time.
+[2025-09-06 20:40:03] New booking request received
+--------------------------------------------------
+[2025-09-06 20:40:03] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-06 20:40:03] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-06 20:40:03] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-06 20:40:03] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"couples-massage","serviceName":"Couples Massage","servicePrice":220,"serviceDuration":60,"bookingDate":"2025-09-07","bookingTime":"12:30 PM","specialRequests":""}
+--------------------------------------------------
+[2025-09-06 20:40:03] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => couples-massage
+    [serviceName] => Couples Massage
+    [servicePrice] => 220
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-07
+    [bookingTime] => 12:30 PM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-06 20:40:03] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => couples-massage
+    [serviceName] => Couples Massage
+    [servicePrice] => 220
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-07
+    [bookingTime] => 12:30 PM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-06 20:40:03] Time conversion
+Data: 12:30 PM -> 12:30:00
+--------------------------------------------------
+[2025-09-06 20:40:03] Generated booking reference
+Data: SP20252711
+--------------------------------------------------
+[2025-09-06 20:40:03] Checking for existing bookings
+--------------------------------------------------
+[2025-09-06 20:40:03] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-06 20:40:03] Preparing to insert booking with parameters
+Data: Array
+(
+    [booking_reference] => SP20252711
+    [full_name] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [service_type] => couples-massage
+    [service_name] => Couples Massage
+    [service_price] => 220
+    [service_duration] => 60
+    [booking_date] => 2025-09-07
+    [booking_time] => 12:30:00
+    [special_requests] => 
+)
+
+--------------------------------------------------
+[2025-09-06 20:40:03] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 7
+    [reference] => SP20252711
+)
+
+--------------------------------------------------
+[2025-09-06 20:40:03] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20252711
+    [bookingId] => 7
+    [details] => Array
+        (
+            [service] => Couples Massage
+            [date] => 2025-09-07
+            [time] => 12:30 PM
+            [price] => 220
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-06 20:40:03] Insert statement closed
+--------------------------------------------------
+[2025-09-06 20:40:03] Check statement closed
+--------------------------------------------------
+[2025-09-06 20:40:03] Database connection closed
+--------------------------------------------------
+[2025-09-06 20:42:11] New booking request received
+--------------------------------------------------
+[2025-09-06 20:42:11] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-06 20:42:11] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-06 20:42:11] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-06 20:42:11] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"manicure","serviceName":"Luxury Manicure","servicePrice":60,"serviceDuration":30,"bookingDate":"2025-09-07","bookingTime":"4:30 PM","specialRequests":"none"}
+--------------------------------------------------
+[2025-09-06 20:42:11] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => manicure
+    [serviceName] => Luxury Manicure
+    [servicePrice] => 60
+    [serviceDuration] => 30
+    [bookingDate] => 2025-09-07
+    [bookingTime] => 4:30 PM
+    [specialRequests] => none
+)
+
+--------------------------------------------------
+[2025-09-06 20:42:11] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => manicure
+    [serviceName] => Luxury Manicure
+    [servicePrice] => 60
+    [serviceDuration] => 30
+    [bookingDate] => 2025-09-07
+    [bookingTime] => 4:30 PM
+    [specialRequests] => none
+)
+
+--------------------------------------------------
+[2025-09-06 20:42:11] Time conversion
+Data: 4:30 PM -> 16:30:00
+--------------------------------------------------
+[2025-09-06 20:42:11] Generated booking reference
+Data: SP20255101
+--------------------------------------------------
+[2025-09-06 20:42:11] Checking for existing bookings
+--------------------------------------------------
+[2025-09-06 20:42:11] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-06 20:42:11] Preparing to insert booking with parameters
+Data: Array
+(
+    [booking_reference] => SP20255101
+    [full_name] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [service_type] => manicure
+    [service_name] => Luxury Manicure
+    [service_price] => 60
+    [service_duration] => 30
+    [booking_date] => 2025-09-07
+    [booking_time] => 16:30:00
+    [special_requests] => none
+)
+
+--------------------------------------------------
+[2025-09-06 20:42:11] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 8
+    [reference] => SP20255101
+)
+
+--------------------------------------------------
+[2025-09-06 20:42:11] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20255101
+    [bookingId] => 8
+    [details] => Array
+        (
+            [service] => Luxury Manicure
+            [date] => 2025-09-07
+            [time] => 4:30 PM
+            [price] => 60
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-06 20:42:11] Insert statement closed
+--------------------------------------------------
+[2025-09-06 20:42:11] Check statement closed
+--------------------------------------------------
+[2025-09-06 20:42:11] Database connection closed
+--------------------------------------------------
+[2025-09-06 20:49:41] New booking request received
+--------------------------------------------------
+[2025-09-06 20:49:41] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-06 20:49:41] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-06 20:49:41] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-06 20:49:41] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"massage","serviceName":"Swedish Massage","servicePrice":120,"serviceDuration":60,"bookingDate":"2025-09-07","bookingTime":"10:30 AM","specialRequests":"none"}
+--------------------------------------------------
+[2025-09-06 20:49:41] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-07
+    [bookingTime] => 10:30 AM
+    [specialRequests] => none
+)
+
+--------------------------------------------------
+[2025-09-06 20:49:41] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-07
+    [bookingTime] => 10:30 AM
+    [specialRequests] => none
+)
+
+--------------------------------------------------
+[2025-09-06 20:49:41] Time conversion
+Data: 10:30 AM -> 10:30:00
+--------------------------------------------------
+[2025-09-06 20:49:41] Generated booking reference
+Data: SP20256649
+--------------------------------------------------
+[2025-09-06 20:49:41] Checking for existing bookings
+--------------------------------------------------
+[2025-09-06 20:49:41] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-06 20:49:41] Preparing to insert booking with parameters
+Data: Array
+(
+    [booking_reference] => SP20256649
+    [full_name] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [service_type] => massage
+    [service_name] => Swedish Massage
+    [service_price] => 120
+    [service_duration] => 60
+    [booking_date] => 2025-09-07
+    [booking_time] => 10:30:00
+    [special_requests] => none
+)
+
+--------------------------------------------------
+[2025-09-06 20:49:41] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 9
+    [reference] => SP20256649
+)
+
+--------------------------------------------------
+[2025-09-06 20:49:41] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20256649
+    [bookingId] => 9
+    [details] => Array
+        (
+            [service] => Swedish Massage
+            [date] => 2025-09-07
+            [time] => 10:30 AM
+            [price] => 120
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-06 20:49:41] Insert statement closed
+--------------------------------------------------
+[2025-09-06 20:49:41] Check statement closed
+--------------------------------------------------
+[2025-09-06 20:49:41] Database connection closed
+--------------------------------------------------
+[2025-09-07 10:03:18] New booking request received
+--------------------------------------------------
+[2025-09-07 10:03:18] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-07 10:03:18] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-07 10:03:18] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-07 10:03:18] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"massage","serviceName":"Swedish Massage","servicePrice":120,"serviceDuration":60,"bookingDate":"2025-09-08","bookingTime":"4:30 PM","specialRequests":"none"}
+--------------------------------------------------
+[2025-09-07 10:03:18] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-08
+    [bookingTime] => 4:30 PM
+    [specialRequests] => none
+)
+
+--------------------------------------------------
+[2025-09-07 10:03:18] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-08
+    [bookingTime] => 4:30 PM
+    [specialRequests] => none
+)
+
+--------------------------------------------------
+[2025-09-07 10:03:18] Time conversion
+Data: 4:30 PM -> 16:30:00
+--------------------------------------------------
+[2025-09-07 10:03:18] Generated booking reference
+Data: SP20252720
+--------------------------------------------------
+[2025-09-07 10:03:18] Checking for existing bookings
+--------------------------------------------------
+[2025-09-07 10:03:18] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-07 10:03:18] Preparing to insert booking with parameters
+Data: Array
+(
+    [booking_reference] => SP20252720
+    [full_name] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [service_type] => massage
+    [service_name] => Swedish Massage
+    [service_price] => 120
+    [service_duration] => 60
+    [booking_date] => 2025-09-08
+    [booking_time] => 16:30:00
+    [special_requests] => none
+)
+
+--------------------------------------------------
+[2025-09-07 10:03:18] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 10
+    [reference] => SP20252720
+)
+
+--------------------------------------------------
+[2025-09-07 10:03:18] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20252720
+    [bookingId] => 10
+    [details] => Array
+        (
+            [service] => Swedish Massage
+            [date] => 2025-09-08
+            [time] => 4:30 PM
+            [price] => 120
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-07 10:03:18] Insert statement closed
+--------------------------------------------------
+[2025-09-07 10:03:18] Check statement closed
+--------------------------------------------------
+[2025-09-07 10:03:18] Database connection closed
+--------------------------------------------------
+[2025-09-07 10:06:59] New booking request received
+--------------------------------------------------
+[2025-09-07 10:06:59] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-07 10:06:59] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-07 10:06:59] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-07 10:06:59] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"massage","serviceName":"Swedish Massage","servicePrice":120,"serviceDuration":60,"bookingDate":"2025-09-24","bookingTime":"9:00 AM","specialRequests":""}
+--------------------------------------------------
+[2025-09-07 10:06:59] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-24
+    [bookingTime] => 9:00 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-07 10:06:59] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-24
+    [bookingTime] => 9:00 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-07 10:06:59] Time conversion
+Data: 9:00 AM -> 09:00:00
+--------------------------------------------------
+[2025-09-07 10:06:59] Generated booking reference
+Data: SP20257582
+--------------------------------------------------
+[2025-09-07 10:06:59] Checking for existing bookings
+--------------------------------------------------
+[2025-09-07 10:06:59] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-07 10:06:59] Preparing to insert booking with parameters
+Data: Array
+(
+    [booking_reference] => SP20257582
+    [full_name] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [service_type] => massage
+    [service_name] => Swedish Massage
+    [service_price] => 120
+    [service_duration] => 60
+    [booking_date] => 2025-09-24
+    [booking_time] => 09:00:00
+    [special_requests] => 
+)
+
+--------------------------------------------------
+[2025-09-07 10:06:59] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 11
+    [reference] => SP20257582
+)
+
+--------------------------------------------------
+[2025-09-07 10:06:59] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20257582
+    [bookingId] => 11
+    [details] => Array
+        (
+            [service] => Swedish Massage
+            [date] => 2025-09-24
+            [time] => 9:00 AM
+            [price] => 120
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-07 10:06:59] Insert statement closed
+--------------------------------------------------
+[2025-09-07 10:06:59] Check statement closed
+--------------------------------------------------
+[2025-09-07 10:06:59] Database connection closed
+--------------------------------------------------
+[2025-09-13 16:39:27] New booking request received
+--------------------------------------------------
+[2025-09-13 16:39:27] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-13 16:39:27] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-13 16:39:27] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-13 16:39:27] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"massage","serviceName":"Swedish Massage","servicePrice":120,"serviceDuration":60,"bookingDate":"2025-09-24","bookingTime":"10:00 AM","specialRequests":""}
+--------------------------------------------------
+[2025-09-13 16:39:27] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-24
+    [bookingTime] => 10:00 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-13 16:39:27] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-24
+    [bookingTime] => 10:00 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-13 16:39:27] Time conversion
+Data: 10:00 AM -> 10:00:00
+--------------------------------------------------
+[2025-09-13 16:39:27] Generated booking reference
+Data: SP20256912
+--------------------------------------------------
+[2025-09-13 16:39:27] Checking for existing bookings
+--------------------------------------------------
+[2025-09-13 16:39:27] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-13 16:39:27] Preparing to insert booking with parameters
+Data: Array
+(
+    [booking_reference] => SP20256912
+    [full_name] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [service_type] => massage
+    [service_name] => Swedish Massage
+    [service_price] => 120
+    [service_duration] => 60
+    [booking_date] => 2025-09-24
+    [booking_time] => 10:00:00
+    [special_requests] => 
+)
+
+--------------------------------------------------
+[2025-09-13 16:39:27] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 12
+    [reference] => SP20256912
+)
+
+--------------------------------------------------
+[2025-09-13 16:39:27] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20256912
+    [bookingId] => 12
+    [details] => Array
+        (
+            [service] => Swedish Massage
+            [date] => 2025-09-24
+            [time] => 10:00 AM
+            [price] => 120
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-13 16:39:27] Insert statement closed
+--------------------------------------------------
+[2025-09-13 16:39:27] Check statement closed
+--------------------------------------------------
+[2025-09-13 16:39:27] Database connection closed
+--------------------------------------------------
+[2025-09-13 16:40:10] New booking request received
+--------------------------------------------------
+[2025-09-13 16:40:10] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-13 16:40:10] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-13 16:40:10] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-13 16:40:10] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence@gmail.com","phone":"9064516647","serviceType":"manicure","serviceName":"Aromatherapy Massage","servicePrice":60,"serviceDuration":30,"bookingDate":"2025-09-22","bookingTime":"9:30 AM","specialRequests":""}
+--------------------------------------------------
+[2025-09-13 16:40:10] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence@gmail.com
+    [phone] => 9064516647
+    [serviceType] => manicure
+    [serviceName] => Aromatherapy Massage
+    [servicePrice] => 60
+    [serviceDuration] => 30
+    [bookingDate] => 2025-09-22
+    [bookingTime] => 9:30 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-13 16:40:10] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence@gmail.com
+    [phone] => 9064516647
+    [serviceType] => manicure
+    [serviceName] => Aromatherapy Massage
+    [servicePrice] => 60
+    [serviceDuration] => 30
+    [bookingDate] => 2025-09-22
+    [bookingTime] => 9:30 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-13 16:40:10] Time conversion
+Data: 9:30 AM -> 09:30:00
+--------------------------------------------------
+[2025-09-13 16:40:10] Generated booking reference
+Data: SP20256734
+--------------------------------------------------
+[2025-09-13 16:40:10] Checking for existing bookings
+--------------------------------------------------
+[2025-09-13 16:40:10] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-13 16:40:10] Preparing to insert booking with parameters
+Data: Array
+(
+    [booking_reference] => SP20256734
+    [full_name] => Lawrence Fortin
+    [email] => lawrence@gmail.com
+    [phone] => 9064516647
+    [service_type] => manicure
+    [service_name] => Aromatherapy Massage
+    [service_price] => 60
+    [service_duration] => 30
+    [booking_date] => 2025-09-22
+    [booking_time] => 09:30:00
+    [special_requests] => 
+)
+
+--------------------------------------------------
+[2025-09-13 16:40:10] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 13
+    [reference] => SP20256734
+)
+
+--------------------------------------------------
+[2025-09-13 16:40:10] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20256734
+    [bookingId] => 13
+    [details] => Array
+        (
+            [service] => Aromatherapy Massage
+            [date] => 2025-09-22
+            [time] => 9:30 AM
+            [price] => 60
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-13 16:40:10] Insert statement closed
+--------------------------------------------------
+[2025-09-13 16:40:10] Check statement closed
+--------------------------------------------------
+[2025-09-13 16:40:10] Database connection closed
+--------------------------------------------------
+[2025-09-13 18:00:35] New booking request received
+--------------------------------------------------
+[2025-09-13 18:00:35] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-13 18:00:35] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-13 18:00:35] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-13 18:00:35] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"massage","serviceName":"Swedish Massage","servicePrice":120,"serviceDuration":60,"bookingDate":"2025-09-17","bookingTime":"9:00 AM","specialRequests":""}
+--------------------------------------------------
+[2025-09-13 18:00:35] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-17
+    [bookingTime] => 9:00 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-13 18:00:35] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-17
+    [bookingTime] => 9:00 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-13 18:00:35] Time conversion
+Data: 9:00 AM -> 09:00:00
+--------------------------------------------------
+[2025-09-13 18:00:35] Generated booking reference
+Data: SP20256086
+--------------------------------------------------
+[2025-09-13 18:00:35] Checking for existing bookings
+--------------------------------------------------
+[2025-09-13 18:00:35] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-13 18:00:35] Preparing to insert booking with parameters
+Data: Array
+(
+    [booking_reference] => SP20256086
+    [full_name] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [service_type] => massage
+    [service_name] => Swedish Massage
+    [service_price] => 120
+    [service_duration] => 60
+    [booking_date] => 2025-09-17
+    [booking_time] => 09:00:00
+    [special_requests] => 
+)
+
+--------------------------------------------------
+[2025-09-13 18:00:35] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 14
+    [reference] => SP20256086
+)
+
+--------------------------------------------------
+[2025-09-13 18:00:35] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20256086
+    [bookingId] => 14
+    [details] => Array
+        (
+            [service] => Swedish Massage
+            [date] => 2025-09-17
+            [time] => 9:00 AM
+            [price] => 120
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-13 18:00:35] Insert statement closed
+--------------------------------------------------
+[2025-09-13 18:00:35] Check statement closed
+--------------------------------------------------
+[2025-09-13 18:00:35] Database connection closed
+--------------------------------------------------
+[2025-09-15 06:04:57] New booking request received
+--------------------------------------------------
+[2025-09-15 06:04:57] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-15 06:04:57] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-15 06:04:57] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-15 06:04:57] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"massage","serviceName":"Swedish Massage","servicePrice":120,"serviceDuration":60,"bookingDate":"2025-09-17","bookingTime":"9:00 AM","specialRequests":""}
+--------------------------------------------------
+[2025-09-15 06:04:57] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-17
+    [bookingTime] => 9:00 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-15 06:04:57] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-17
+    [bookingTime] => 9:00 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-15 06:04:57] Time conversion
+Data: 9:00 AM -> 09:00:00
+--------------------------------------------------
+[2025-09-15 06:04:57] Generated booking reference
+Data: SP20254604
+--------------------------------------------------
+[2025-09-15 06:04:57] Checking for existing bookings
+--------------------------------------------------
+[2025-09-15 06:04:57] Time slot conflict found
+Data: Array
+(
+    [id] => 14
+    [full_name] => Lawrence Fortin
+)
+
+--------------------------------------------------
+[2025-09-15 06:04:57] Error occurred
+Data: Array
+(
+    [error] => This time slot is already booked by Lawrence Fortin. Please choose another time.
+    [file] => C:\xampp\htdocs\login_register\process_booking.php
+    [line] => 156
+    [trace] => #0 {main}
+)
+
+--------------------------------------------------
+[2025-09-15 06:04:57] Check statement closed
+--------------------------------------------------
+[2025-09-15 06:04:57] Database connection closed
+--------------------------------------------------
+[2025-09-15 06:05:11] New booking request received
+--------------------------------------------------
+[2025-09-15 06:05:11] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-15 06:05:11] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-15 06:05:11] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-15 06:05:11] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"massage","serviceName":"Swedish Massage","servicePrice":120,"serviceDuration":60,"bookingDate":"2025-09-17","bookingTime":"9:30 AM","specialRequests":""}
+--------------------------------------------------
+[2025-09-15 06:05:11] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-17
+    [bookingTime] => 9:30 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-15 06:05:11] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 120
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-17
+    [bookingTime] => 9:30 AM
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-15 06:05:11] Time conversion
+Data: 9:30 AM -> 09:30:00
+--------------------------------------------------
+[2025-09-15 06:05:11] Generated booking reference
+Data: SP20254652
+--------------------------------------------------
+[2025-09-15 06:05:11] Checking for existing bookings
+--------------------------------------------------
+[2025-09-15 06:05:11] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-15 06:05:11] Preparing to insert booking with parameters
+Data: Array
+(
+    [booking_reference] => SP20254652
+    [full_name] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [service_type] => massage
+    [service_name] => Swedish Massage
+    [service_price] => 120
+    [service_duration] => 60
+    [booking_date] => 2025-09-17
+    [booking_time] => 09:30:00
+    [special_requests] => 
+)
+
+--------------------------------------------------
+[2025-09-15 06:05:11] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 15
+    [reference] => SP20254652
+)
+
+--------------------------------------------------
+[2025-09-15 06:05:11] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20254652
+    [bookingId] => 15
+    [details] => Array
+        (
+            [service] => Swedish Massage
+            [date] => 2025-09-17
+            [time] => 9:30 AM
+            [price] => 120
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-15 06:05:11] Insert statement closed
+--------------------------------------------------
+[2025-09-15 06:05:11] Check statement closed
+--------------------------------------------------
+[2025-09-15 06:05:11] Database connection closed
+--------------------------------------------------
+[2025-09-15 09:28:06] New booking request received
+--------------------------------------------------
+[2025-09-15 09:28:06] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-15 09:28:06] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-15 09:28:06] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-15 09:28:06] Raw input received
+Data: {"fullName":"lawrence","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"2","serviceName":"Deep Tissue Massage","servicePrice":95,"serviceDuration":75,"bookingDate":"2025-09-17","bookingTime":"9:30 AM","roomType":"couples","therapistId":"7","paymentMethod":"spa","specialRequests":"none"}
+--------------------------------------------------
+[2025-09-15 09:28:06] Decoded JSON data
+Data: Array
+(
+    [fullName] => lawrence
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => 2
+    [serviceName] => Deep Tissue Massage
+    [servicePrice] => 95
+    [serviceDuration] => 75
+    [bookingDate] => 2025-09-17
+    [bookingTime] => 9:30 AM
+    [roomType] => couples
+    [therapistId] => 7
+    [paymentMethod] => spa
+    [specialRequests] => none
+)
+
+--------------------------------------------------
+[2025-09-15 09:28:06] Sanitized data
+Data: Array
+(
+    [fullName] => lawrence
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => 2
+    [serviceName] => Deep Tissue Massage
+    [servicePrice] => 95
+    [serviceDuration] => 75
+    [bookingDate] => 2025-09-17
+    [bookingTime] => 9:30 AM
+    [roomType] => couples
+    [therapistId] => 7
+    [paymentMethod] => spa
+    [specialRequests] => none
+)
+
+--------------------------------------------------
+[2025-09-15 09:28:06] Time conversion
+Data: 9:30 AM -> 09:30:00
+--------------------------------------------------
+[2025-09-15 09:28:06] Generated booking reference
+Data: SP20253608
+--------------------------------------------------
+[2025-09-15 09:28:06] Checking for existing bookings
+--------------------------------------------------
+[2025-09-15 09:28:06] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-15 09:28:06] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 1
+    [reference] => SP20253608
+)
+
+--------------------------------------------------
+[2025-09-15 09:28:06] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20253608
+    [bookingId] => 1
+    [details] => Array
+        (
+            [service] => Deep Tissue Massage
+            [date] => 2025-09-17
+            [time] => 9:30 AM
+            [price] => 95
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-15 09:28:06] Insert statement closed
+--------------------------------------------------
+[2025-09-15 09:28:06] Check statement closed
+--------------------------------------------------
+[2025-09-15 09:28:06] Database connection closed
+--------------------------------------------------
+[2025-09-15 09:39:06] New booking request received
+--------------------------------------------------
+[2025-09-15 09:39:06] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-15 09:39:06] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-15 09:39:06] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-15 09:39:06] Raw input received
+Data: {"fullName":"renzz","email":"lawrence@gmail.com","phone":"9064516647","serviceType":"5","serviceName":"Thai Massage","servicePrice":110,"serviceDuration":75,"bookingDate":"2025-09-17","bookingTime":"9:00 AM","roomType":"vip","therapistId":"1","paymentMethod":"online","specialRequests":"none"}
+--------------------------------------------------
+[2025-09-15 09:39:06] Decoded JSON data
+Data: Array
+(
+    [fullName] => renzz
+    [email] => lawrence@gmail.com
+    [phone] => 9064516647
+    [serviceType] => 5
+    [serviceName] => Thai Massage
+    [servicePrice] => 110
+    [serviceDuration] => 75
+    [bookingDate] => 2025-09-17
+    [bookingTime] => 9:00 AM
+    [roomType] => vip
+    [therapistId] => 1
+    [paymentMethod] => online
+    [specialRequests] => none
+)
+
+--------------------------------------------------
+[2025-09-15 09:39:06] Sanitized data
+Data: Array
+(
+    [fullName] => renzz
+    [email] => lawrence@gmail.com
+    [phone] => 9064516647
+    [serviceType] => 5
+    [serviceName] => Thai Massage
+    [servicePrice] => 110
+    [serviceDuration] => 75
+    [bookingDate] => 2025-09-17
+    [bookingTime] => 9:00 AM
+    [roomType] => vip
+    [therapistId] => 1
+    [paymentMethod] => online
+    [specialRequests] => none
+)
+
+--------------------------------------------------
+[2025-09-15 09:39:06] Time conversion
+Data: 9:00 AM -> 09:00:00
+--------------------------------------------------
+[2025-09-15 09:39:06] Generated booking reference
+Data: SP20253786
+--------------------------------------------------
+[2025-09-15 09:39:06] Checking for existing bookings
+--------------------------------------------------
+[2025-09-15 09:39:06] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-15 09:39:06] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 1
+    [reference] => SP20253786
+)
+
+--------------------------------------------------
+[2025-09-15 09:39:06] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20253786
+    [bookingId] => 1
+    [details] => Array
+        (
+            [service] => Thai Massage
+            [date] => 2025-09-17
+            [time] => 9:00 AM
+            [price] => 110
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-15 09:39:06] Insert statement closed
+--------------------------------------------------
+[2025-09-15 09:39:06] Check statement closed
+--------------------------------------------------
+[2025-09-15 09:39:06] Database connection closed
+--------------------------------------------------
+[2025-09-15 09:40:42] New booking request received
+--------------------------------------------------
+[2025-09-15 09:40:42] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-15 09:40:42] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-15 09:40:42] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-15 09:40:42] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9922127374","serviceType":"6","serviceName":"Reflexology","servicePrice":90,"serviceDuration":60,"bookingDate":"2025-09-30","bookingTime":"2:30 PM","roomType":"vip","therapistId":"2","paymentMethod":"spa","specialRequests":""}
+--------------------------------------------------
+[2025-09-15 09:40:42] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9922127374
+    [serviceType] => 6
+    [serviceName] => Reflexology
+    [servicePrice] => 90
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-30
+    [bookingTime] => 2:30 PM
+    [roomType] => vip
+    [therapistId] => 2
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-15 09:40:42] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9922127374
+    [serviceType] => 6
+    [serviceName] => Reflexology
+    [servicePrice] => 90
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-30
+    [bookingTime] => 2:30 PM
+    [roomType] => vip
+    [therapistId] => 2
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-15 09:40:42] Time conversion
+Data: 2:30 PM -> 14:30:00
+--------------------------------------------------
+[2025-09-15 09:40:42] Generated booking reference
+Data: SP20253969
+--------------------------------------------------
+[2025-09-15 09:40:42] Checking for existing bookings
+--------------------------------------------------
+[2025-09-15 09:40:42] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-15 09:40:42] Booking saved successfully
+Data: Array
+(
+    [booking_id] => 2
+    [reference] => SP20253969
+)
+
+--------------------------------------------------
+[2025-09-15 09:40:42] Sending success response
+Data: Array
+(
+    [success] => 1
+    [message] => Booking confirmed successfully!
+    [bookingReference] => SP20253969
+    [bookingId] => 2
+    [details] => Array
+        (
+            [service] => Reflexology
+            [date] => 2025-09-30
+            [time] => 2:30 PM
+            [price] => 90
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-15 09:40:42] Insert statement closed
+--------------------------------------------------
+[2025-09-15 09:40:42] Check statement closed
+--------------------------------------------------
+[2025-09-15 09:40:42] Database connection closed
+--------------------------------------------------
+[2025-09-17 06:41:35] New booking request received
+--------------------------------------------------
+[2025-09-17 06:41:35] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-17 06:41:35] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-17 06:41:35] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-17 06:41:35] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"090645166447","serviceType":"6","serviceName":"Reflexology","servicePrice":90,"serviceDuration":60,"bookingDate":"2025-09-19","bookingTime":"9:00 AM","roomType":"vip","therapistId":"1","paymentMethod":"spa","specialRequests":""}
+--------------------------------------------------
+[2025-09-17 06:41:35] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 6
+    [serviceName] => Reflexology
+    [servicePrice] => 90
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 9:00 AM
+    [roomType] => vip
+    [therapistId] => 1
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-17 06:41:35] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 6
+    [serviceName] => Reflexology
+    [servicePrice] => 90
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 9:00 AM
+    [roomType] => vip
+    [therapistId] => 1
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-17 06:41:35] Time conversion
+Data: 9:00 AM -> 09:00:00
+--------------------------------------------------
+[2025-09-17 06:41:35] Generated booking reference
+Data: SP20256051
+--------------------------------------------------
+[2025-09-17 06:41:35] Checking for existing bookings
+--------------------------------------------------
+[2025-09-17 06:41:35] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-17 06:41:35] Insert statement closed
+--------------------------------------------------
+[2025-09-17 06:41:35] Check statement closed
+--------------------------------------------------
+[2025-09-17 06:41:35] Database connection closed
+--------------------------------------------------
+[2025-09-17 06:41:40] New booking request received
+--------------------------------------------------
+[2025-09-17 06:41:40] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-17 06:41:40] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-17 06:41:40] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-17 06:41:40] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"090645166447","serviceType":"6","serviceName":"Reflexology","servicePrice":90,"serviceDuration":60,"bookingDate":"2025-09-19","bookingTime":"9:00 AM","roomType":"vip","therapistId":"1","paymentMethod":"spa","specialRequests":""}
+--------------------------------------------------
+[2025-09-17 06:41:40] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 6
+    [serviceName] => Reflexology
+    [servicePrice] => 90
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 9:00 AM
+    [roomType] => vip
+    [therapistId] => 1
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-17 06:41:40] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 6
+    [serviceName] => Reflexology
+    [servicePrice] => 90
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 9:00 AM
+    [roomType] => vip
+    [therapistId] => 1
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-17 06:41:40] Time conversion
+Data: 9:00 AM -> 09:00:00
+--------------------------------------------------
+[2025-09-17 06:41:40] Generated booking reference
+Data: SP20257042
+--------------------------------------------------
+[2025-09-17 06:41:40] Checking for existing bookings
+--------------------------------------------------
+[2025-09-17 06:41:40] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-17 06:41:40] Insert statement closed
+--------------------------------------------------
+[2025-09-17 06:41:40] Check statement closed
+--------------------------------------------------
+[2025-09-17 06:41:40] Database connection closed
+--------------------------------------------------
+[2025-09-17 06:43:30] New booking request received
+--------------------------------------------------
+[2025-09-17 06:43:30] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-17 06:43:30] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-17 06:43:30] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-17 06:43:30] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"090645166447","serviceType":"1","serviceName":"Swedish Massage","servicePrice":80,"serviceDuration":60,"bookingDate":"2025-09-19","bookingTime":"9:30 AM","roomType":"single","therapistId":"3","paymentMethod":"spa"}
+--------------------------------------------------
+[2025-09-17 06:43:30] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 1
+    [serviceName] => Swedish Massage
+    [servicePrice] => 80
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 9:30 AM
+    [roomType] => single
+    [therapistId] => 3
+    [paymentMethod] => spa
+)
+
+--------------------------------------------------
+[2025-09-17 06:43:30] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 1
+    [serviceName] => Swedish Massage
+    [servicePrice] => 80
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 9:30 AM
+    [roomType] => single
+    [therapistId] => 3
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-17 06:43:30] Time conversion
+Data: 9:30 AM -> 09:30:00
+--------------------------------------------------
+[2025-09-17 06:43:30] Generated booking reference
+Data: SP20256722
+--------------------------------------------------
+[2025-09-17 06:43:30] Checking for existing bookings
+--------------------------------------------------
+[2025-09-17 06:43:30] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-17 06:43:30] Insert statement closed
+--------------------------------------------------
+[2025-09-17 06:43:30] Check statement closed
+--------------------------------------------------
+[2025-09-17 06:43:30] Database connection closed
+--------------------------------------------------
+[2025-09-17 06:50:15] New booking request received
+--------------------------------------------------
+[2025-09-17 06:50:15] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-17 06:50:15] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-17 06:50:15] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-17 06:50:15] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 3
+    [serviceName] => Hot Stone Massage
+    [servicePrice] => 120
+    [serviceDuration] => 90
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 11:30 AM
+    [roomType] => couples
+    [therapistId] => 3
+    [paymentMethod] => spa
+)
+
+--------------------------------------------------
+[2025-09-17 06:50:15] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 3
+    [serviceName] => Hot Stone Massage
+    [servicePrice] => 120
+    [serviceDuration] => 90
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 11:30 AM
+    [roomType] => couples
+    [therapistId] => 3
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-17 06:50:15] Time conversion
+Data: 11:30 AM -> 11:30:00
+--------------------------------------------------
+[2025-09-17 06:50:15] Generated booking reference
+Data: SP20259326
+--------------------------------------------------
+[2025-09-17 06:50:15] Checking for existing bookings
+--------------------------------------------------
+[2025-09-17 06:50:15] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-17 06:50:15] Insert statement closed
+--------------------------------------------------
+[2025-09-17 06:50:15] Check statement closed
+--------------------------------------------------
+[2025-09-17 06:50:15] Database connection closed
+--------------------------------------------------
+[2025-09-17 06:50:30] New booking request received
+--------------------------------------------------
+[2025-09-17 06:50:30] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-17 06:50:30] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-17 06:50:30] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-17 06:50:30] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 3
+    [serviceName] => Hot Stone Massage
+    [servicePrice] => 120
+    [serviceDuration] => 90
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 11:30 AM
+    [roomType] => couples
+    [therapistId] => 3
+    [paymentMethod] => spa
+)
+
+--------------------------------------------------
+[2025-09-17 06:50:30] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 3
+    [serviceName] => Hot Stone Massage
+    [servicePrice] => 120
+    [serviceDuration] => 90
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 11:30 AM
+    [roomType] => couples
+    [therapistId] => 3
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-17 06:50:30] Time conversion
+Data: 11:30 AM -> 11:30:00
+--------------------------------------------------
+[2025-09-17 06:50:30] Generated booking reference
+Data: SP20252535
+--------------------------------------------------
+[2025-09-17 06:50:30] Checking for existing bookings
+--------------------------------------------------
+[2025-09-17 06:50:30] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-17 06:50:30] Insert statement closed
+--------------------------------------------------
+[2025-09-17 06:50:30] Check statement closed
+--------------------------------------------------
+[2025-09-17 06:50:30] Database connection closed
+--------------------------------------------------
+[2025-09-17 06:52:24] New booking request received
+--------------------------------------------------
+[2025-09-17 06:52:24] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-17 06:52:24] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-17 06:52:24] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-17 06:52:24] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 3
+    [serviceName] => Hot Stone Massage
+    [servicePrice] => 120
+    [serviceDuration] => 90
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 11:30 AM
+    [roomType] => couples
+    [therapistId] => 3
+    [paymentMethod] => spa
+)
+
+--------------------------------------------------
+[2025-09-17 06:52:24] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => 3
+    [serviceName] => Hot Stone Massage
+    [servicePrice] => 120
+    [serviceDuration] => 90
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 11:30 AM
+    [roomType] => couples
+    [therapistId] => 3
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-17 06:52:24] Time conversion
+Data: 11:30 AM -> 11:30:00
+--------------------------------------------------
+[2025-09-17 06:52:24] Generated booking reference
+Data: SP20255732
+--------------------------------------------------
+[2025-09-17 06:52:24] Checking for existing bookings
+--------------------------------------------------
+[2025-09-17 06:52:24] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-17 06:52:24] Insert statement closed
+--------------------------------------------------
+[2025-09-17 06:52:24] Check statement closed
+--------------------------------------------------
+[2025-09-17 06:52:24] Database connection closed
+--------------------------------------------------
+[2025-09-17 06:56:03] New booking request received
+--------------------------------------------------
+[2025-09-17 06:56:03] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-17 06:56:03] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-17 06:56:03] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-17 06:56:03] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => reflexology
+    [serviceName] => Reflexology
+    [servicePrice] => 90
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 3:30 PM
+    [roomType] => single
+    [therapistId] => no-preference
+    [paymentMethod] => spa
+)
+
+--------------------------------------------------
+[2025-09-17 06:56:03] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => reflexology
+    [serviceName] => Reflexology
+    [servicePrice] => 90
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 3:30 PM
+    [roomType] => single
+    [therapistId] => 0
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-17 06:56:03] Time conversion
+Data: 3:30 PM -> 15:30:00
+--------------------------------------------------
+[2025-09-17 06:56:03] Generated booking reference
+Data: SP20253414
+--------------------------------------------------
+[2025-09-17 06:56:03] Checking for existing bookings
+--------------------------------------------------
+[2025-09-17 06:56:03] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-17 06:56:03] Insert statement closed
+--------------------------------------------------
+[2025-09-17 06:56:03] Check statement closed
+--------------------------------------------------
+[2025-09-17 06:56:03] Database connection closed
+--------------------------------------------------
+[2025-09-17 06:56:59] New booking request received
+--------------------------------------------------
+[2025-09-17 06:56:59] Request method
+Data: POST
+--------------------------------------------------
+[2025-09-17 06:56:59] Content type
+Data: application/json
+--------------------------------------------------
+[2025-09-17 06:56:59] Raw POST data
+Data: Array
+(
+)
+
+--------------------------------------------------
+[2025-09-17 06:56:59] Decoded JSON data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => reflexology
+    [serviceName] => Reflexology
+    [servicePrice] => 90
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 11:00 AM
+    [roomType] => couples
+    [therapistId] => 3
+    [paymentMethod] => spa
+)
+
+--------------------------------------------------
+[2025-09-17 06:56:59] Sanitized data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 090645166447
+    [serviceType] => reflexology
+    [serviceName] => Reflexology
+    [servicePrice] => 90
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-19
+    [bookingTime] => 11:00 AM
+    [roomType] => couples
+    [therapistId] => 3
+    [paymentMethod] => spa
+    [specialRequests] => 
+)
+
+--------------------------------------------------
+[2025-09-17 06:56:59] Time conversion
+Data: 11:00 AM -> 11:00:00
+--------------------------------------------------
+[2025-09-17 06:56:59] Generated booking reference
+Data: SP20257758
+--------------------------------------------------
+[2025-09-17 06:56:59] Checking for existing bookings
+--------------------------------------------------
+[2025-09-17 06:56:59] No conflicts found, proceeding with booking
+--------------------------------------------------
+[2025-09-17 06:56:59] Insert statement closed
+--------------------------------------------------
+[2025-09-17 06:56:59] Check statement closed
+--------------------------------------------------
+[2025-09-17 06:56:59] Database connection closed
+--------------------------------------------------
+[2025-09-19 09:46:42] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"swedish_massage","serviceName":"Swedish Massage","servicePrice":600,"serviceDuration":60,"bookingDate":"2025-09-21","bookingTime":"11:00 AM","roomType":"couples","therapistId":"1","paymentMethod":"spa","healthInfo":{"medicalConditions":["heart"],"pregnancy":"no","pregnancyWeeks":"","allergies":["oils"],"otherAllergy":"","currentlyIll":"yes"}}
+--------------------------------------------------
+[2025-09-19 09:46:42] Decoded data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => swedish_massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 600
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-21
+    [bookingTime] => 11:00 AM
+    [roomType] => couples
+    [therapistId] => 1
+    [paymentMethod] => spa
+    [healthInfo] => Array
+        (
+            [medicalConditions] => Array
+                (
+                    [0] => heart
+                )
+
+            [pregnancy] => no
+            [pregnancyWeeks] => 
+            [allergies] => Array
+                (
+                    [0] => oils
+                )
+
+            [otherAllergy] => 
+            [currentlyIll] => yes
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-19 09:46:42] Calculated prices
+Data: Array
+(
+    [service_price] => 600
+    [room_price] => 1000
+    [total_price] => 1600
+)
+
+--------------------------------------------------
+[2025-09-19 09:46:42] Error occurred
+Data: Array
+(
+    [message] => Unknown column 'user_id' in 'field list'
+    [trace] => #0 C:\xampp\htdocs\login_register\process_booking.php(163): mysqli->prepare('INSERT INTO boo...')
+#1 {main}
+)
+
+--------------------------------------------------
+[2025-09-19 09:48:40] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"swedish_massage","serviceName":"Swedish Massage","servicePrice":600,"serviceDuration":60,"bookingDate":"2025-09-20","bookingTime":"11:30 AM","roomType":"vip","therapistId":"2","paymentMethod":"spa","healthInfo":{"medicalConditions":["heart"],"pregnancy":"no","pregnancyWeeks":"","allergies":["oils"],"otherAllergy":"","currentlyIll":"yes"}}
+--------------------------------------------------
+[2025-09-19 09:48:40] Decoded data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => swedish_massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 600
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-20
+    [bookingTime] => 11:30 AM
+    [roomType] => vip
+    [therapistId] => 2
+    [paymentMethod] => spa
+    [healthInfo] => Array
+        (
+            [medicalConditions] => Array
+                (
+                    [0] => heart
+                )
+
+            [pregnancy] => no
+            [pregnancyWeeks] => 
+            [allergies] => Array
+                (
+                    [0] => oils
+                )
+
+            [otherAllergy] => 
+            [currentlyIll] => yes
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-19 09:48:40] Calculated prices
+Data: Array
+(
+    [service_price] => 600
+    [room_price] => 2000
+    [total_price] => 2600
+)
+
+--------------------------------------------------
+[2025-09-19 09:48:40] Error occurred
+Data: Array
+(
+    [message] => Unknown column 'user_id' in 'field list'
+    [trace] => #0 C:\xampp\htdocs\login_register\process_booking.php(163): mysqli->prepare('INSERT INTO boo...')
+#1 {main}
+)
+
+--------------------------------------------------
+[2025-09-19 09:54:01] Raw input received
+Data: {"fullName":"Lawrence Fortin","email":"lawrence14@gmail.com","phone":"9064516647","serviceType":"swedish_massage","serviceName":"Swedish Massage","servicePrice":600,"serviceDuration":60,"bookingDate":"2025-09-20","bookingTime":"11:30 AM","roomType":"couples","therapistId":"1","paymentMethod":"spa","healthInfo":{"medicalConditions":["heart"],"pregnancy":"no","pregnancyWeeks":"","allergies":["oils"],"otherAllergy":"","currentlyIll":"yes"}}
+--------------------------------------------------
+[2025-09-19 09:54:01] Decoded data
+Data: Array
+(
+    [fullName] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [serviceType] => swedish_massage
+    [serviceName] => Swedish Massage
+    [servicePrice] => 600
+    [serviceDuration] => 60
+    [bookingDate] => 2025-09-20
+    [bookingTime] => 11:30 AM
+    [roomType] => couples
+    [therapistId] => 1
+    [paymentMethod] => spa
+    [healthInfo] => Array
+        (
+            [medicalConditions] => Array
+                (
+                    [0] => heart
+                )
+
+            [pregnancy] => no
+            [pregnancyWeeks] => 
+            [allergies] => Array
+                (
+                    [0] => oils
+                )
+
+            [otherAllergy] => 
+            [currentlyIll] => yes
+        )
+
+)
+
+--------------------------------------------------
+[2025-09-19 09:54:01] Calculated prices
+Data: Array
+(
+    [service_price] => 600
+    [room_price] => 1000
+    [total_price] => 1600
+)
+
+--------------------------------------------------
+[2025-09-19 09:54:01] About to execute insert
+Data: Array
+(
+    [booking_reference] => SP20253374
+    [user_id] => 
+    [full_name] => Lawrence Fortin
+    [email] => lawrence14@gmail.com
+    [phone] => 9064516647
+    [service_type] => swedish_massage
+    [service_name] => Swedish Massage
+    [service_price] => 600
+    [service_duration] => 60
+    [booking_date] => 2025-09-20
+    [booking_time] => 11:30:00
+    [room_type] => couples
+    [room_price] => 1000
+    [total_price] => 1600
+    [therapist_id] => 1
+    [payment_method] => spa
+    [health_info] => {"medical_conditions":["heart"],"pregnancy":"no","pregnancy_weeks":null,"allergies":["oils"],"other_allergy":"","currently_ill":"yes","collected_at":"2025-09-19 09:54:01"}
+)
+
+--------------------------------------------------

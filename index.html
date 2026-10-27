@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Levy Branzuela Salon</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/Untitled.png">
+</head>
+
+<body>
+    
+    <!-- header section starts-->
+    <header>
+        <a href="#home" class="logo">
+            <img src="images/logo2.png" alt="LEVY BRANZUELA SALON Logo">
+        </a>
+
+        <nav class="navbar">
+            <div class="nav-links">
+                <a href="#home">HOME</a>
+                <a href="#services">SERVICES</a>
+                <a href="#contact">CONTACT</a>
+            </div>
+            
+            <!-- Mobile Menu Toggle -->
+            <div class="menu-toggle" id="menu-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            
+            <!-- Dynamic login/user section -->
+            <div id="auth-section">
+                <!-- Default login button (shown when not logged in) -->
+                <a href="registration.php" class="login-btn" id="login-button">LOGIN</a>
+                
+                <!-- User section (shown when logged in) -->
+                <div class="user-section" id="user-section" style="display: none;">
+                    <div class="user-dropdown">
+                        <button class="user-btn" id="user-button">
+                            <i class="fas fa-user"></i>
+                            <span id="user-name">User</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="dropdown-content" id="dropdown-content">
+                            <a href="appointments.php"><i class="fas fa-calendar"></i> My Appointments</a>
+                            <div class="dropdown-divider"></div>
+                            <a href="logout.php" class="logout-link"><i class="fas fa-sign-out-alt"></i> Logout</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- header section ends -->
+
+    <!-- Success/Welcome message -->
+    <div id="welcome-message" class="welcome-message" style="display: none;">
+        <div class="message-content">
+            <i class="fas fa-check-circle"></i>
+            <span id="welcome-text"></span>
+            <button class="close-message" onclick="closeWelcomeMessage()">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- home section starts -->
+    <section class="home" id="home">
+        <video autoplay muted loop playsinline class="home-video">
+            <source src="video/Levy Salon MOV.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </section>
+    <!-- home section ends -->
+
+
+    <!-- services section starts -->
+    <section class="services" id="services">
+        <div class="section-content-fade">
+            <h1 class="heading">services</h1>
+            <p class="subtitle">"Makeup is art. Makeup is passion. Makeup is expression."</p>
+
+            <div class="service-card-container">
+                <!-- Service Card 1 - Image LEFT -->
+                <div class="service-card image-left active">
+                    <div class="service-image" style="background-image: url('images/3.png');"></div>
+                    <div class="service-content">
+                        <span class="service-number">SERVICE 1</span>
+                        <h2>Hair & Make-up</h2>
+                        <p>Transform your look with our professional hair and makeup services. Our expert stylists create stunning looks tailored to your unique style and occasion.</p>
+                        <button class="service-book-btn" onclick="handleServiceBooking('Hair & Make-up')">Book Now</button>
+                    </div>
+                </div>
+
+                <!-- Service Card 2 - Image RIGHT -->
+                <div class="service-card image-right">
+                    <div class="service-image" style="background-image: url('images/4.png');"></div>
+                    <div class="service-content">
+                        <span class="service-number">SERVICE 2</span>
+                        <h2>Hair Coloring</h2>
+                        <p>Discover vibrant new dimensions with our premium hair coloring services. From subtle highlights to bold transformations, we use high-quality products.</p>
+                        <button class="service-book-btn" onclick="handleServiceBooking('Hair Coloring')">Book Now</button>
+                    </div>
+                </div>
+
+                <!-- Service Card 3 - Image LEFT -->
+                <div class="service-card image-left">
+                    <div class="service-image" style="background-image: url('images/5.png');"></div>
+                    <div class="service-content">
+                        <span class="service-number">SERVICE 3</span>
+                        <h2>Hair Cutting</h2>
+                        <p>Experience precision cuts that enhance your natural beauty. Our skilled stylists combine the latest techniques with timeless styles for a fresh look.</p>
+                        <button class="service-book-btn" onclick="handleServiceBooking('Hair Cutting')">Book Now</button>
+                    </div>
+                </div>
+
+                <!-- Service Card 4 - Image RIGHT -->
+                <div class="service-card image-right">
+                    <div class="service-image" style="background-image: url('images/7.png');"></div>
+                    <div class="service-content">
+                        <span class="service-number">SERVICE 4</span>
+                        <h2>Hair Spa Treatments</h2>
+                        <p>Indulge in luxurious hair spa treatments that nourish and revitalize. Deep conditioning and scalp massage restore health and shine to your hair.</p>
+                        <button class="service-book-btn" onclick="handleServiceBooking('Hair Spa Treatments')">Book Now</button>
+                    </div>
+                </div>
+
+                <!-- Service Card 5 - Image LEFT -->
+                <div class="service-card image-left">
+                    <div class="service-image" style="background-image: url('images/6.png');"></div>
+                    <div class="service-content">
+                        <span class="service-number">SERVICE 5</span>
+                        <h2>Manicure/Pedicure</h2>
+                        <p>Pamper yourself with our comprehensive nail care services. From classic manicures to deluxe pedicures, we provide meticulous attention to detail.</p>
+                        <button class="service-book-btn" onclick="handleServiceBooking('Manicure/Pedicure')">Book Now</button>
+                    </div>
+                </div>
+
+                <!-- Service Card 6 - Image RIGHT -->
+                <div class="service-card image-right">
+                    <div class="service-image" style="background-image: url('images/8.png');"></div>
+                    <div class="service-content">
+                        <span class="service-number">SERVICE 6</span>
+                        <h2>Waxing</h2>
+                        <p>Achieve smooth, hair-free skin with our professional waxing services. Using gentle techniques and premium products for long-lasting results.</p>
+                        <button class="service-book-btn" onclick="handleServiceBooking('Waxing')">Book Now</button>
+                    </div>
+                </div>
+
+                <!-- Dots Indicator -->
+                <div class="service-dots-container">
+                    <span class="service-dot active" data-index="0"></span>
+                    <span class="service-dot" data-index="1"></span>
+                    <span class="service-dot" data-index="2"></span>
+                    <span class="service-dot" data-index="3"></span>
+                    <span class="service-dot" data-index="4"></span>
+                    <span class="service-dot" data-index="5"></span>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- services section ends -->
+
+    <section class="details" id="details">
+        <div class="section-content-fade">
+            <h1 class="heading"><span>Details</span></h1>
+            <div class="row">
+                <div class="content">
+                    <img src="images/1.png" alt="LEVY BRANZUELA SALON Logo">
+                    <div class="text-content">
+                        <p class="subtitle">Address: Lot 4 Palanyag Road, Gatchalian 2, Brgy. San Dionisio, Paranaque City</p>
+                        <p class="subtitle">Facebook: Levy Branzuela Salon</p>
+                        <p class="subtitle">Contact Number: (02) 8829-9411 / 09175143849</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- contact section starts -->
+    <section class="contact" id="contact">
+        <div class="section-content-fade">
+            <h1 class="heading"><span>contact</span> us</h1>
+            <div class="contact-form">
+                <form action="send-mail.php" method="POST" id="contactForm">
+                    <div class="form-group">
+                        <label for="fullName">Full Name</label>
+                        <input type="text" id="fullName" name="fullName" class="form-input" required>
+                    </div>
+                
+                    <div class="form-group">
+                        <label for="email">Email Address</label>
+                        <input type="email" id="email" name="email" class="form-input" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" class="form-input" rows="6" placeholder="Tell us how we can help you..." required></textarea>
+                    </div>
+                    
+                    <button type="submit" class="submit-btn">
+                        <i class="fas fa-paper-plane"></i>
+                        Send Message
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
+    <!-- contact section ends -->
+
+    <script src="script.js"></script>
+
+</body>
+</html>
